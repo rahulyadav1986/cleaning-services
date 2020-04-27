@@ -1,15 +1,12 @@
 $(document).ready(function () {
     $('.humberger-menu').click(function(){
-        $('.mobile-menu').addClass('open');
-        $('body').addClass('slide')
+        $('.mobile-menu').addClass('open')
     });
     $('.menu-close').click(function(){
-        $('.mobile-menu').removeClass('open');
-        $('body').removeClass('slide')
+        $('.mobile-menu').removeClass('open')
     })
     $('header .bottom-back .right-details .navigation li').click(function(){
-        $('.mobile-menu').removeClass('open');
-        $('body').removeClass('slide')
+        $('.mobile-menu').removeClass('open')
     });
 
 
