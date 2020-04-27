@@ -24,6 +24,7 @@
     .contact .main-section .portion textarea{ margin-top: 12px;}
     
     .section .about-image-back{ padding-right: 0;}
+    .section .about-us-back.inner h1:after{ right: 0;}
     
     
 
@@ -49,6 +50,7 @@
     .contact .main-section .portion textarea{ margin-top: 12px;}
     .section .about-image-back{ padding-right: 0;}
     header .bottom-back .right-details .mobile-menu .logo{ display: none;}
+    .section .about-us-back.inner h1:after{ right: 0;}
 }
 @media only screen and (max-width:765px) {
     header .bottom-back .right-details .navigation li a{    padding: 0 16px; font-size: 14px;}
