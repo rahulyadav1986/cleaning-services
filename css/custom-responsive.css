@@ -98,8 +98,7 @@
     .heading h1{ font-size: 30px;}
     .section .blue{ font-size: 12px;}
     .section .blue{ margin-bottom: 6px;}
-    .section p{ font-size: 14px;}
-    .section p{ width: 90%;}
+    .section p{ font-size: 14px; width: 90%; display: inline-block}
 }
 
 
